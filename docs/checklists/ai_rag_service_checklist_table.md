@@ -1,6 +1,6 @@
 ﻿# AI RAG Service Checklist Table
 
-기준 문서: `docs/ai_rag_service_checklist.md`
+기준 문서: `docs/checklists/ai_rag_service_checklist.md`
 
 | 구분 | 세부 항목 | 우선순위 | 상태 | 비고 |
 |---|---|---|---|---|

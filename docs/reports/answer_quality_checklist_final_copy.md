@@ -1,11 +1,13 @@
-# Answer Checklist 기반 LDS PPT 최종 장표 문구
+﻿# Answer Checklist 기반 LDS PPT 최종 장표 문구
+
 
 기준 문서:
-- `docs/answer_quality_checklist_lds_ppt_slide_copy.md`
-- `docs/answer_quality_checklist_lds_ppt_outline.md`
+- `docs/reports/answer_quality_checklist_slide_copy.md`
+- `docs/reports/answer_quality_checklist_outline.md`
 
-작성일:
-- 2026-04-01
+| 항목 | 내용 |
+|---|---|
+| 작성일 | 2026-04-01 |
 
 사용 목적:
 - PowerPoint 장표에 바로 붙일 수 있는 최종 압축 문구
@@ -415,3 +417,7 @@ artifacts/
 
 - 별첨은 발표 보조자료가 아니라 실제 프로젝트 실행 패키지로 활용 가능함
 - 체크리스트를 산출물과 관리도구로 연결해야 개선 활동이 반복 가능한 체계가 됨
+
+
+
+

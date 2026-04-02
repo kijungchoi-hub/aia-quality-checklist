@@ -1,6 +1,6 @@
 ﻿# AI RAG Service Project Tracker
 
-기준 문서: `docs/ai_rag_service_checklist.md`
+기준 문서: `docs/checklists/ai_rag_service_checklist.md`
 
 | 구분 | 세부 항목 | 우선순위 | 상태 | 담당자 | 마감일 | 진행률 | 비고 |
 |---|---|---|---|---|---|---|---|

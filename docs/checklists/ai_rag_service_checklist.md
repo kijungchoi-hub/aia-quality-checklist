@@ -1,6 +1,6 @@
 ﻿# AI RAG Service Checklist
 
-참조 문서: `docs/answer_quality_checklist_final.md`
+참조 문서: `docs/checklists/answer_quality_checklist_final.md`
 
 정리 원칙:
 - 특정 도메인, 문서유형, 데이터셋 이름 제거

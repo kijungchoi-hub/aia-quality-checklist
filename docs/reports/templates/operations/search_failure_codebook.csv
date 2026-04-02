@@ -1,0 +1,2 @@
+sample_id,query,expected_document,actual_top_results,failure_code,cause_memo,follow_up_action
+,,,,,,

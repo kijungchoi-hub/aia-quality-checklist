@@ -1,9 +1,9 @@
 # Answer Quality Operating Framework
 
 기준 문서:
-- `docs/answer_quality_checklist_final.md`
-- `docs/answer_quality_checklist_final_table.csv`
-- `docs/answer_quality_checklist_unstarted_improvement_cases.md`
+- `docs/checklists/answer_quality_checklist_final.md`
+- `docs/checklists/answer_quality_checklist_final_table.csv`
+- `docs/reports/answer_quality_checklist_unstarted_improvement_cases.md`
 
 작성일:
 - 2026-04-01

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Answer Quality favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <path d="M18 46 30 18h4l12 28h-6l-2.4-6H26.4L24 46zm10.6-11h6.8L32 26.6z" fill="#f8fafc"/>
+  <path d="M45 18h-6v28h6c7.2 0 11-5 11-14s-3.8-14-11-14Zm-.8 22V24h.8c3.7 0 5.8 2.7 5.8 8s-2.1 8-5.8 8Z" fill="#93c5fd"/>
+</svg>

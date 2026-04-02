@@ -1,10 +1,12 @@
-# Answer Checklist 기반 LDS PPT 장표용 압축 문구
+﻿# Answer Checklist 기반 LDS PPT 장표용 압축 문구
+
 
 기준 문서:
-- `docs/answer_quality_checklist_lds_ppt_outline.md`
+- `docs/reports/answer_quality_checklist_outline.md`
 
-작성일:
-- 2026-04-01
+| 항목 | 내용 |
+|---|---|
+| 작성일 | 2026-04-01 |
 
 사용 목적:
 - 실제 PPT 장표에 바로 넣을 수 있는 짧은 문구 버전
@@ -321,3 +323,7 @@ Case B: 상위 컨텍스트 정제
 - 핵심 포인트 1: 평가 기반 신뢰도
 - 핵심 포인트 2: 검색/생성 분리
 - 핵심 포인트 3: 운영 추적 체계
+
+
+
+

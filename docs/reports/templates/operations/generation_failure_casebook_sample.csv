@@ -1,0 +1,5 @@
+sample_id,chuck_hit,generation_result,failure_code,cause_memo,improvement_action,retest_result
+GN-001,Y,조건 3개 중 1개 누락,OMIT,근거는 있으나 요약 과정에서 일부 탈락,조건 나열 프롬프트 추가,improved
+GN-002,Y,근거 문서와 다른 예외 조건 설명,DIST,상충 문장 혼합,출처 우선 문장 제약 추가,retest_needed
+GN-003,Y,근거 없는 일반 규정 생성,HALL,fallback 규칙 부재,근거 없으면 답변 보류 규칙 추가,improved
+GN-004,Y,출처는 달렸으나 다른 조항 번호 표시,CITE,출처 포맷 후처리 오류,조항 번호 매핑 검증 추가,improved
