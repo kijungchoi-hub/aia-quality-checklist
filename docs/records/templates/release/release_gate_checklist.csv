@@ -1,0 +1,8 @@
+check_item,status,criteria,note
+evaluation_dataset_freshness,,Recent operating queries are reflected,
+answer_key_chunk_fit,,Answer mapping is verified,
+retrieval_quality,,Top-K Hit Rate meets the threshold,
+generation_quality,,Major Hallucination(환각) cases are controlled,
+grounding_citation_quality,,Answer-to-evidence mapping is possible,
+regression_control,,No regression in key scenarios,
+operational_readiness,,Monitoring logging rollback criteria exist,

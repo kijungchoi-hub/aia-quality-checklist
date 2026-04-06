@@ -1,0 +1,5 @@
+sample_id,query,expected_document,actual_top_results,failure_code,cause_memo,follow_up_action
+SR-001,해지 수수료는 언제 발생하나요?,서비스 이용약관 12조,"FAQ 일반 안내; 공지사항",RANK,정답 문서는 있으나 상위 10위 밖으로 밀림,BM25 가중치 상향
+SR-002,미성년자 가입 제한은 있나요?,가입정책 3조,관련 문서 없음,INDEX,최신 가입정책 문서 색인 누락,색인 재생성
+SR-003,VIP 등급 기준 알려줘,멤버십 정책 2조,"카드혜택 안내 문서 다수",META,카테고리 메타데이터 오류,메타데이터 수정
+SR-004,계약 해제 조건 알려줘,이용약관 예외 조항,일반 이용 정책 문서,QUERY,예외 조항 질의 해석 실패,Query Expansion 추가

@@ -1,8 +1,0 @@
-check_item,status,criteria,note
-evaluation_dataset_freshness,Pass,Recent operating queries are reflected,2026-03 로그 반영
-answer_key_chuck_fit,Pass,Answer mapping is verified,샘플 100건 점검 완료
-retrieval_quality,Pass,Top-K Hit Rate meets the threshold,61 -> 72
-generation_quality,Conditional,Major hallucination cases are controlled,일부 조건형 답변 보완 필요
-grounding_citation_quality,Pass,Answer-to-evidence mapping is possible,출처 포맷 반영
-regression_control,Hold,No regression in key scenarios,FAQ 1건 회귀 발생
-operational_readiness,Pass,Monitoring logging rollback criteria exist,주간 로그 연결 완료
