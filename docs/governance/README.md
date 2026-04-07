@@ -1,12 +1,12 @@
-﻿# 개선활동 기준 문서 안내
+﻿# 품질 운영 기준 문서 안내
 
-이 폴더는 `answer` 품질 개선 프로젝트의 개선활동 기준서와 관리 문서를 보관합니다.
+이 폴더는 PM과 프로젝트 리더가 `answer` 품질 개선 프로젝트의 판단 기준, 실패 분류 기준, 배포 판단 기준을 일관되게 관리하기 위한 문서를 보관합니다.
 
 ## 포함 문서
 
 | 파일명 | 용도 |
 |---|---|
-| [`09_quality_operating_framework.md`](09_quality_operating_framework.md) | 전체 개선활동 프레임워크 |
+| [`09_quality_operating_framework.md`](09_quality_operating_framework.md) | 전체 품질 운영 프레임워크 |
 | [`10_search_failure_codebook.md`](10_search_failure_codebook.md) | 검색 실패 분류 기준 및 초안 사례 |
 | [`10_search_failure_codebook_sample.csv`](10_search_failure_codebook_sample.csv) | 검색 실패 사례 입력 예시 |
 | [`11_generation_failure_casebook.md`](11_generation_failure_casebook.md) | 생성 실패 사례 초안 |
@@ -19,9 +19,11 @@
 | [`14_weekly_quality_log_2026-W14_sample.csv`](14_weekly_quality_log_2026-W14_sample.csv) | 주간 점검 입력 예시 |
 | [`15_expansion_validation_matrix.md`](15_expansion_validation_matrix.md) | 타 영역 확장 검증 초안 |
 | [`15_expansion_validation_matrix_sample.csv`](15_expansion_validation_matrix_sample.csv) | 확장 검증 입력 예시 |
+| [`31_quality_operating_overview.md`](31_quality_operating_overview.md) | 품질 운영 방향과 실행 관점을 정리한 개요 문서 |
 
-## 개선활동 원칙
+## 품질 운영 원칙
 
 - 평가 기준, 실패 분류, 회귀 통제 문서는 항상 함께 갱신합니다.
 - 문서명은 유지하고 버전이나 주차 정보는 본문 메타데이터로 관리합니다.
 - 배포 전에는 최소 `평가셋`, `실패 로그`, `회귀셋`, `배포 게이트` 4종 문서를 함께 점검하는 것을 권장합니다.
+- PM과 프로젝트 리더는 이 문서를 기준으로 개선 반영, 보류, 추가 검증 여부를 판단합니다.

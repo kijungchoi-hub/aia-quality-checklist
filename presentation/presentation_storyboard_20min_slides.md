@@ -1,4 +1,4 @@
-# AI 품질 체크리스트 20분 슬라이드형 시연영상 큐시트
+﻿# AI 품질 체크리스트 20분 슬라이드형 시연영상 큐시트
 
 ## 목적
 
@@ -22,7 +22,7 @@
 
 - 시간: 0:00-0:40
 - 화면: 제목 슬라이드
-- 슬라이드 제목: 프로젝트 전체 관점의 AI 품질 체크리스트 체계
+- 슬라이드 제목: PM과 프로젝트 리더를 위한 AI 품질 체크리스트 체계
 - 화면 요소:
   - 저장소명
   - 발표 제목
@@ -31,7 +31,7 @@
   - 오늘 발표 목적
   - 세 가지 설명 축 소개
 
-### 2. 왜 체계가 필요한가
+### 2. 왜 PM과 프로젝트 리더에게 체계가 필요한가
 
 - 시간: 0:40-2:30
 - 화면: 문제 인식 슬라이드
@@ -47,7 +47,7 @@
   - "결과만 보고 원인을 단정하기 어렵다" 강조 박스
 - 내레이션 핵심:
   - AI 품질은 단일 원인이 아니다
-  - 모델만 바꿔서는 해결되지 않는다
+  - PM과 프로젝트 리더는 품질 리스크를 관리 가능한 구조로 봐야 한다
 
 ### 3. 전체 문서 구조 소개
 
@@ -55,13 +55,13 @@
 - 화면: 저장소 구조 슬라이드
 - 슬라이드 제목: 문서 구조는 네 묶음이다
 - 화면 요소:
-  - [`checklists`](../README.md)
-  - [`projects`](ai_rag_service_project_tracker.md)
-  - [`governance`](../governance/README.md)
-  - [`records`](../records/quality_checklist_overview.md)
+  - [`checklists`](../docs/checklists/README.md)
+  - [`projects`](../docs/projects/README.md)
+  - [`governance`](../docs/governance/README.md)
+  - [`records`](../docs/records/README.md)
 - 추천 화면:
-  - 루트 [`README.md`](../../README.md) 일부 캡처
-  - [`docs/README.md`](../README.md) 일부 캡처
+  - 루트 [`README.md`](../README.md) 일부 캡처
+  - [`docs/README.md`](../docs/README.md) 일부 캡처
 - 내레이션 핵심:
   - 기준을 잡고
   - 실행으로 옮기고
@@ -74,9 +74,9 @@
 - 화면: 체크리스트 비교 슬라이드
 - 슬라이드 제목: 체크리스트는 세 층으로 본다
 - 화면 요소:
-  - [`answer_checklist.md`](../checklists/answer_checklist.md)
-  - [`summary_checklist.md`](../checklists/summary_checklist.md)
-  - [`ai_rag_service_checklist.md`](../checklists/ai_rag_service_checklist.md)
+  - [`03_answer_checklist.md`](../docs/checklists/03_answer_checklist.md)
+  - [`05_summary_checklist.md`](../docs/checklists/05_summary_checklist.md)
+  - [`01_ai_rag_service_checklist.md`](../docs/checklists/01_ai_rag_service_checklist.md)
 - 추천 화면:
   - 세 문서의 제목과 목차 영역 캡처
 - 자막 포인트:
@@ -91,9 +91,9 @@
 
 - 시간: 6:50-8:40
 - 화면: 실행 관리 슬라이드
-- 슬라이드 제목: 체크리스트를 실행 계획으로 바꾸는 곳
+- 슬라이드 제목: PM과 프로젝트 리더가 실행 계획으로 바꾸는 곳
 - 추천 화면:
-  - [`ai_rag_service_project_tracker.md`](ai_rag_service_project_tracker.md) 표 캡처
+  - [`08_ai_rag_service_project_tracker.md`](../docs/projects/08_ai_rag_service_project_tracker.md) 표 캡처
 - 강조 포인트:
   - 우선순위
   - 상태
@@ -102,8 +102,8 @@
   - 비고
 - 내레이션 핵심:
   - 체크리스트는 질문 목록
-  - 관리표는 실행 단위
-  - 여기서 실제 할 일이 정해진다
+  - 관리표는 실행 단위이자 리스크 관리 단위
+  - 여기서 실제 할 일과 의사결정 기준이 정해진다
 
 ### 6. governance 설명
 
@@ -111,11 +111,11 @@
 - 화면: 판단 기준 슬라이드
 - 슬라이드 제목: 같은 기준으로 실패를 본다
 - 추천 화면:
-  - [`quality_operating_framework.md`](../governance/quality_operating_framework.md)
-  - [`search_failure_codebook.md`](../governance/search_failure_codebook.md)
-  - [`generation_failure_casebook.md`](../governance/generation_failure_casebook.md)
-  - [`manual_auto_review_log.md`](../governance/manual_auto_review_log.md)
-  - [`release_gate_checklist.md`](../governance/release_gate_checklist.md)
+  - [`09_quality_operating_framework.md`](../docs/governance/09_quality_operating_framework.md)
+  - [`10_search_failure_codebook.md`](../docs/governance/10_search_failure_codebook.md)
+  - [`11_generation_failure_casebook.md`](../docs/governance/11_generation_failure_casebook.md)
+  - [`12_manual_auto_review_log.md`](../docs/governance/12_manual_auto_review_log.md)
+  - [`13_release_gate_checklist.md`](../docs/governance/13_release_gate_checklist.md)
 - 슬라이드 구성:
   - 검색 실패 분류
   - 생성 실패 분류
@@ -128,13 +128,13 @@
 ### 7. records 설명
 
 - 시간: 12:10-15:00
-- 화면: 개선활동 기록 슬라이드
+- 화면: 품질 운영 기록 슬라이드
 - 슬라이드 제목: 실험과 검증이 남아야 자산이 된다
 - 추천 화면:
-  - [`quality_checklist_overview.md`](../records/quality_checklist_overview.md)
-  - [`experiment_design.md`](../records/templates/operations/experiment_design.md)
-  - [`weekly_quality_log.md`](../records/templates/logs/weekly_quality_log.md)
-  - [`regression_test_tracker.md`](../records/templates/validation/regression_test_tracker.md)
+  - [`31_quality_operating_overview.md`](../docs/governance/31_quality_operating_overview.md)
+  - [`16_experiment_design.md`](../docs/records/templates/operations/16_experiment_design.md)
+  - [`29_weekly_quality_log.md`](../docs/records/templates/logs/29_weekly_quality_log.md)
+  - [`25_regression_test_tracker.md`](../docs/records/templates/validation/25_regression_test_tracker.md)
 - 강조 포인트:
   - 가설
   - 변경 전/후
@@ -172,7 +172,7 @@
   2. 체크리스트만으로는 부족하고, 실행 문서와 판단 기준, 기록 문서가 붙어야 한다
   3. 이 구조가 있어야 시행착오가 조직 자산으로 바뀐다
 - 내레이션 핵심:
-  - 이번 문서는 단일 프로젝트 산출물이 아니라 재사용 가능한 구조다
+  - 이번 문서는 PM과 프로젝트 리더가 재사용할 수 있는 품질 관리 구조다
 
 ### 10. 엔딩
 
@@ -182,22 +182,22 @@
 - 화면 요소:
   - 저장소 경로
   - 핵심 문서 3개
-    - [`README.md`](../../README.md)
-    - [`ai_rag_service_project_tracker.md`](ai_rag_service_project_tracker.md)
-    - [`quality_operating_framework.md`](../governance/quality_operating_framework.md)
+    - [`README.md`](../README.md)
+    - [`08_ai_rag_service_project_tracker.md`](../docs/projects/08_ai_rag_service_project_tracker.md)
+    - [`09_quality_operating_framework.md`](../docs/governance/09_quality_operating_framework.md)
 
 ## 촬영용 화면 캡처 우선순위
 
-1. [`README.md`](../../README.md)
-2. [`docs/README.md`](../README.md)
-3. [`answer_checklist.md`](../checklists/answer_checklist.md)
-4. [`summary_checklist.md`](../checklists/summary_checklist.md)
-5. [`ai_rag_service_checklist.md`](../checklists/ai_rag_service_checklist.md)
-6. [`ai_rag_service_project_tracker.md`](ai_rag_service_project_tracker.md)
-7. [`quality_operating_framework.md`](../governance/quality_operating_framework.md)
-8. [`release_gate_checklist.md`](../governance/release_gate_checklist.md)
-9. [`quality_checklist_overview.md`](../records/quality_checklist_overview.md)
-10. [`experiment_design.md`](../records/templates/operations/experiment_design.md)
+1. [`README.md`](../README.md)
+2. [`docs/README.md`](../docs/README.md)
+3. [`03_answer_checklist.md`](../docs/checklists/03_answer_checklist.md)
+4. [`05_summary_checklist.md`](../docs/checklists/05_summary_checklist.md)
+5. [`01_ai_rag_service_checklist.md`](../docs/checklists/01_ai_rag_service_checklist.md)
+6. [`08_ai_rag_service_project_tracker.md`](../docs/projects/08_ai_rag_service_project_tracker.md)
+7. [`09_quality_operating_framework.md`](../docs/governance/09_quality_operating_framework.md)
+8. [`13_release_gate_checklist.md`](../docs/governance/13_release_gate_checklist.md)
+9. [`31_quality_operating_overview.md`](../docs/governance/31_quality_operating_overview.md)
+10. [`16_experiment_design.md`](../docs/records/templates/operations/16_experiment_design.md)
 
 ## 자막 제작 팁
 
@@ -219,4 +219,4 @@
 
 - 발표 대본: [`presentation_script_20min_clean.md`](presentation_script_20min_clean.md)
 - 장면 큐시트: [`presentation_storyboard_20min_slides.md`](presentation_storyboard_20min_slides.md)
-- 발표 원본: [`presentation_script_20min.txt`](../../presentation_script_20min.txt)
+- 발표 원본: [`presentation_script_20min_utf8.txt`](presentation_script_20min_utf8.txt)

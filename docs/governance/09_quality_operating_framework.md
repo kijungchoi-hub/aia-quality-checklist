@@ -1,15 +1,15 @@
-﻿# 답변 품질 개선활동 프레임워크
+﻿# 답변 품질 운영 프레임워크
 
 기준 문서:
 - [`03_answer_checklist.md`](../checklists/03_answer_checklist.md)
 - [`04_answer_checklist_table.csv`](../checklists/04_answer_checklist_table.csv)
-- [`31_quality_checklist_overview.md`](../records/31_quality_checklist_overview.md)
+- [`31_quality_operating_overview.md`](31_quality_operating_overview.md)
 
 작성일:
 - 2026-04-01
 
 목적:
-- `answer` 품질 개선을 데이터, 검색, 생성, 개선활동의 공통 프레임으로 관리합니다.
+- PM과 프로젝트 리더가 `answer` 품질 개선을 데이터, 검색, 생성, 품질 운영의 공통 프레임으로 관리하고 의사결정을 일관되게 가져가기 위한 기준입니다.
 
 ## 문서 메타
 
@@ -22,13 +22,13 @@
 | 기준일 | 2026-04-01 |
 | 관련 데이터 | [`quality_checklist_raw_answer.csv`](../../data/quality_checklist_raw_answer.csv) |
 
-## 1. 개선활동 범위
+## 1. 품질 운영 범위
 
 - 대상: `answer` 품질 체크리스트 전체 34개 항목
 - 현재 상태: 진행중 25건, 미착수 9건
 - 현재 우선 과제: 높음 우선순위 미착수 5건 우선 착수
 
-## 2. 개선활동 구조
+## 2. 품질 운영 구조
 
 ```text
 Data Readiness
@@ -38,7 +38,7 @@ Data Readiness
   -> Learning Loop
 ```
 
-## 3. 단계별 개선활동 기준
+## 3. 단계별 품질 운영 기준
 
 | 단계 | 핵심 질문 | 현재 초안 상태 | 대표 산출물 |
 |---|---|---|---|
@@ -56,7 +56,7 @@ Data Readiness
 4. 검색 개선과 모델 튜닝 효과 분리 해석
 5. 회귀 테스트셋 및 배포 게이트 운영
 
-## 5. 주간 개선활동 체크포인트
+## 5. 주간 품질 운영 체크포인트
 
 - 평가셋 변경 여부
 - 검색 실패 상위 원인

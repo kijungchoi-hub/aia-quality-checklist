@@ -87,7 +87,7 @@
 - 작성일 (Date): 2026-04-02
 - 작성자 (Owner): 검색 품질 담당
 - 대상 서비스/기능 (Scope): 약관/정책 질의 응답
-- 관련 문서 (References): [`31_quality_checklist_overview.md`](../../31_quality_checklist_overview.md)
+- 관련 문서 (References): [`31_quality_operating_overview.md`](../../../governance/31_quality_operating_overview.md)
 
 - 현재 문제 현상 (Current Issue): 약관 관련 질의에서 정답 근거 문서가 Top-3 안에 안정적으로 들어오지 않음
 - 문제 발생 위치: 검색 단계

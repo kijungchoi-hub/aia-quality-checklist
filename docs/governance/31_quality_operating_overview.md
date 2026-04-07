@@ -1,4 +1,4 @@
-﻿# 답변 품질 개선활동 개요
+# 답변 품질 운영 개요
 
 기준 문서:
 - [`03_answer_checklist.md`](../checklists/03_answer_checklist.md)
@@ -11,15 +11,15 @@
 
 ## 1. 문서 개요
 
-이 문서는 `answer` 품질 개선 활동을 주요 학습 사항, 실행 과제, 공유 관점에서 재정리한 개선활동 개요 문서입니다.
-핵심은 개선 과제 나열이 아니라, 데이터, 검색, 생성, 개선활동을 하나의 흐름으로 보고 우선 실행 항목과 목표 상태를 정리하는 데 있습니다.
+이 문서는 PM과 프로젝트 리더가 `answer` 품질 운영을 주요 학습 사항, 실행 과제, 의사결정 관점에서 재정리해 보는 품질 운영 개요 문서입니다.
+핵심은 개선 과제 나열이 아니라, 데이터, 검색, 생성, 품질 운영을 하나의 흐름으로 보고 우선 실행 항목, 목표 상태, 판단 기준을 함께 정리하는 데 있습니다.
 
 ## 2. 핵심 제안
 
 1. 품질 개선의 관리 단위를 `체크리스트 항목`에서 `목표 결과` 중심으로 전환합니다.
 2. 품질 문제를 `검색 실패`와 `생성 실패`로 분리해 원인 분석 정확도를 높입니다.
-3. 모든 개선 활동을 `평가 기준`, `실험 기록`, `회귀 기준`, `배포 게이트`와 연결합니다.
-4. 프로젝트별 개선 경험을 공통 코드북과 개선활동 템플릿으로 표준화합니다.
+3. 모든 품질 운영을 `평가 기준`, `실험 기록`, `회귀 기준`, `배포 게이트`와 연결합니다.
+4. 프로젝트별 개선 경험을 공통 코드북과 품질 운영 템플릿으로 표준화합니다.
 
 ## 3. 목표 결과 중심 정리
 
@@ -35,7 +35,7 @@
 1. `평가 고정`: 평가셋 최신화, 정답지 정리, 청크 적합성 확인
 2. `검색 개선`: 정답 근거 회수율 개선, 실패 코드 분류, 검색 조합 비교
 3. `생성 개선`: 환각 억제, 근거-답변 연결, 형식 안정화
-4. `개선활동 고정`: 회귀 테스트셋 등록, 배포 게이트 정비, 주간 기록 표준화
+4. `운영 고정`: 회귀 테스트셋 등록, 배포 게이트 정비, 주간 기록 표준화
 
 ## 5. 핵심 산출물
 
@@ -44,9 +44,9 @@
 | 데이터와 평가 | 평가셋, 정합성 점검표, 수동/자동 평가 로그 |
 | 검색 | 검색 조합 비교표, 검색 실패 코드북 |
 | 생성 | 프롬프트 버전표, 생성 실패 케이스북, 출처 포맷 정의 |
-| 개선활동 | 회귀 테스트셋, 배포 게이트 점검표, 주간 품질 점검 기록 |
+| 품질 운영 | 회귀 테스트셋, 배포 게이트 점검표, 주간 품질 점검 기록 |
 
-## 6. 공통 개선활동 원칙
+## 6. 공통 품질 운영 원칙
 
 1. 검색 실패와 생성 실패는 항상 분리 관리합니다.
 2. 모델 변경 전에는 데이터셋과 검색 기준을 먼저 고정합니다.
@@ -56,8 +56,8 @@
 
 ## 7. 권장 연결 문서
 
-- [`09_quality_operating_framework.md`](../governance/09_quality_operating_framework.md)
-- [`13_release_gate_checklist.md`](../governance/13_release_gate_checklist.md)
-- [`16_experiment_design.md`](templates/operations/16_experiment_design.md)
-- [`25_regression_test_tracker.md`](templates/validation/25_regression_test_tracker.md)
-- [`29_weekly_quality_log.md`](templates/logs/29_weekly_quality_log.md)
+- [`09_quality_operating_framework.md`](09_quality_operating_framework.md)
+- [`13_release_gate_checklist.md`](13_release_gate_checklist.md)
+- [`16_experiment_design.md`](../records/templates/operations/16_experiment_design.md)
+- [`25_regression_test_tracker.md`](../records/templates/validation/25_regression_test_tracker.md)
+- [`29_weekly_quality_log.md`](../records/templates/logs/29_weekly_quality_log.md)
