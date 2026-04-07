@@ -1,3 +1,3 @@
 test_id,category,question,before,after,regression,note
-RG-001,faq,What data should be reviewed before release?,Partial answer,Complete answer with checklist scope,N,Sample file to keep this directory tracked in git
-RG-002,retrieval,How do we manage regression test scenarios?,No clear process,References regression tracker and validation flow,N,Replace with project-specific regression cases
+RG-001,faq,배포 전에 어떤 데이터를 점검해야 하나요?,일부 항목만 안내,체크리스트 범위에 맞춰 데이터셋 로그 평가 결과를 함께 안내,N,Git 추적 유지를 위한 한국어 샘플 파일
+RG-002,retrieval,회귀 테스트 시나리오는 어떻게 관리하나요?,절차 설명이 모호함,회귀 추적표와 검증 흐름을 기준으로 관리 절차를 설명함,N,프로젝트별 회귀 케이스로 교체 가능
