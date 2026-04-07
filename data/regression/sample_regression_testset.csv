@@ -1,0 +1,3 @@
+test_id,category,question,before,after,regression,note
+RG-001,faq,What data should be reviewed before release?,Partial answer,Complete answer with checklist scope,N,Sample file to keep this directory tracked in git
+RG-002,retrieval,How do we manage regression test scenarios?,No clear process,References regression tracker and validation flow,N,Replace with project-specific regression cases

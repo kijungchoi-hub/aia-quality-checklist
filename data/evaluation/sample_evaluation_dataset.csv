@@ -1,0 +1,3 @@
+sample_id,dataset_type,category,query_type,user_question,expected_answer_summary,source_document,source_chunk_id,freshness_checked_on,status,note
+AE-001,validation,policy,single_turn,What is included in the AI quality checklist?,Overview of key review areas such as data quality, evaluation, operations, and release readiness,quality_checklist_overview.md,CH-001,2026-04-07,active,Sample file to keep this directory tracked in git
+AE-002,operations_sample,retrieval,ambiguous_query,How should retrieval issues be validated before release?,Check representative queries, evidence grounding, and failure cases before go-live,release_gate_checklist.md,CH-007,2026-04-07,active,Replace with project-specific evaluation data
