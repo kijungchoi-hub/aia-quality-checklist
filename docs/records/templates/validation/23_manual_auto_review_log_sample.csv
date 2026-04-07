@@ -1,0 +1,5 @@
+sample_id,question,auto_accuracy,auto_retrieval_match,auto_grounding_match,manual_accuracy,manual_fluency,manual_grounding,overall_judgment,key_comment,follow_up_action
+RV-001,보장 기간은 어떻게 되나요?,0.86,1.00,0.75,높음,중간,중간,부분정답,보장 종료 조건 한 줄이 누락됨,답변 템플릿 보완
+RV-002,중도상환수수료 면제 조건을 알려줘,0.92,0.88,0.90,높음,높음,높음,정답,조건과 예외가 모두 포함됨,유지
+RV-003,이전 답변 기준으로 제출서류를 다시 정리해줘,0.55,0.80,0.48,중간,중간,낮음,보류,이전 대화 맥락 반영이 불안정함,멀티턴 프롬프트 재검증
+RV-DIFF-001,면책 기간이 없다고 이해하면 되나요?,정답,부분정답,조건부 문구를 자동 평가가 놓침,진행중

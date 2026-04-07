@@ -11,7 +11,7 @@
 ## 데이터와 문서 구분
 
 - 평가셋, 검증셋, 회귀 테스트셋 같은 실제 데이터 파일은 [`../data`](../data/) 아래에 둡니다.
-- 특히 평가용 원본 데이터는 `../data/evaluation/`, 회귀 테스트 원본 데이터는 `../data/regression/`을 우선 사용합니다.
+- 특히 평가용 원본 데이터는 [`../data/evaluation`](../data/evaluation/)을, 회귀 테스트 원본 데이터는 [`../data/regression`](../data/regression/)을 우선 사용합니다.
 - 실행 계획서, 프로젝트 적용 범위, 우선순위 문서는 [`projects`](projects/)에 둡니다.
 - 검증 결과 요약, 회귀 판정 기록, 주간 품질 로그는 [`records`](records/)에 둡니다.
 

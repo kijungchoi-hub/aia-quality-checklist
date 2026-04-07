@@ -8,10 +8,10 @@
 
 | 파일 | 구분 | 설명 |
 |---|---|---|
-| [`weekly_quality_log.md`](weekly_quality_log.md) | Template | 주간 점검 기록 문서 |
-| [`weekly_quality_log.csv`](weekly_quality_log.csv) | Input | 주간 점검 입력 시트 |
-| [`weekly_quality_log_sample.md`](weekly_quality_log_sample.md) | Sample | 주간 점검 기록 예시 |
-| [`weekly_quality_log_sample.csv`](weekly_quality_log_sample.csv) | Sample | 주간 점검 입력 예시 |
+| [`29_weekly_quality_log.md`](29_weekly_quality_log.md) | Template | 주간 점검 기록 문서 |
+| [`29_weekly_quality_log.csv`](29_weekly_quality_log.csv) | Input | 주간 점검 입력 시트 |
+| [`30_weekly_quality_log_sample.md`](30_weekly_quality_log_sample.md) | Sample | 주간 점검 기록 예시 |
+| [`30_weekly_quality_log_sample.csv`](30_weekly_quality_log_sample.csv) | Sample | 주간 점검 입력 예시 |
 
 ## 사용 시점
 

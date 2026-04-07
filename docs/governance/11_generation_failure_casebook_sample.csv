@@ -1,0 +1,5 @@
+case_id,question_type,gold_chunk_retrieved,expected_failure_type,current_rationale,priority_action,status,week
+GF-2026-010,약관 조건 질문,Y,조건 누락,핵심 예외 조항 한 줄이 답변에서 빠짐,답변 템플릿 구조화,진행중,2026-W14
+GF-2026-011,출처 확인 질문,Y,근거 왜곡,근거 문서는 맞지만 문장 해석이 실제 조항과 어긋남,출처 연결 형식 보강,미착수,2026-W14
+GF-2026-012,일반 FAQ 질문,Y,과도한 일반화,조건별 답변 대신 포괄적 문장으로 단순화됨,fallback 문구 추가,진행중,2026-W14
+GF-2026-013,멀티턴 후속 질문,N,형식 오류,이전 문맥을 반영하지 못하고 요청 형식을 지키지 못함,멀티턴 검증셋 추가,미착수,2026-W14

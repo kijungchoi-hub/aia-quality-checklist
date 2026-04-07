@@ -1,0 +1,7 @@
+check_item,current_assessment,result,evidence_document,note
+평가셋 최신성,최근 운영 질의 반영이 아직 부족함,보류,04_answer_checklist_table.md,예측 질의 및 멀티턴 샘플 추가 필요
+검색 품질,검색 조합 비교와 Top-K 조정이 진행중임,조건부,04_answer_checklist_table.md,원인 코드 체계화 전까지 제한적 승인
+생성 품질,생성 실패 케이스 분리 관리가 아직 미정착,보류,11_generation_failure_casebook.md,생성 실패 축적 후 재점검 필요
+출처 품질,출처 포함 답변 포맷 검증이 미완료,보류,12_manual_auto_review_log.md,출처 제시 일관성 점검 필요
+회귀 통제,회귀 테스트셋 최소본만 존재,보류,25_regression_test_tracker.md,배포 전 필수 테스트 수행 필요
+운영성,주간 로그 및 대시보드 템플릿은 준비됨,조건부,14_weekly_quality_log_2026-W14.md,실제 운영 로그 연결 필요

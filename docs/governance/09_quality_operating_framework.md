@@ -1,9 +1,9 @@
 ﻿# 답변 품질 개선활동 프레임워크
 
 기준 문서:
-- [`answer_checklist.md`](../checklists/answer_checklist.md)
-- [`answer_checklist_table.csv`](../checklists/answer_checklist_table.csv)
-- [`quality_checklist_overview.md`](../records/quality_checklist_overview.md)
+- [`03_answer_checklist.md`](../checklists/03_answer_checklist.md)
+- [`04_answer_checklist_table.csv`](../checklists/04_answer_checklist_table.csv)
+- [`31_quality_checklist_overview.md`](../records/31_quality_checklist_overview.md)
 
 작성일:
 - 2026-04-01

@@ -1,0 +1,5 @@
+case_id,question_type,expected_failure_code,current_rationale,priority_action,status,week
+SF-2026-010,축약형 약관 질문,QUERY,질의 의도 해석이 불안정해 정답 문서를 놓침,질의 rewrite 규칙 보강,진행중,2026-W14
+SF-2026-011,최신 개정 약관 질문,INDEX,개정 문서가 인덱스에 반영되지 않은 정황,최신 문서 재색인,미착수,2026-W14
+SF-2026-012,상품 혼동 질문,META,상품 메타 태그가 유사해 다른 상품 문서가 섞임,상품 메타 정비,진행중,2026-W14
+SF-2026-013,정답 문서 존재 질문,RANK,정답은 있으나 Top-K 밖으로 밀려 응답 근거에서 제외됨,reranker 및 weight 재조정,진행중,2026-W14

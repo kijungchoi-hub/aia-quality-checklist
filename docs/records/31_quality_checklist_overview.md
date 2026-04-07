@@ -1,9 +1,9 @@
 ﻿# 답변 품질 개선활동 개요
 
 기준 문서:
-- [`answer_checklist.md`](../checklists/answer_checklist.md)
-- [`answer_checklist_table.csv`](../checklists/answer_checklist_table.csv)
-- [`ai_rag_service_project_tracker.md`](../projects/ai_rag_service_project_tracker.md)
+- [`03_answer_checklist.md`](../checklists/03_answer_checklist.md)
+- [`04_answer_checklist_table.csv`](../checklists/04_answer_checklist_table.csv)
+- [`08_ai_rag_service_project_tracker.md`](../projects/08_ai_rag_service_project_tracker.md)
 
 | 항목 | 내용 |
 |---|---|
@@ -56,8 +56,8 @@
 
 ## 7. 권장 연결 문서
 
-- [`quality_operating_framework.md`](../governance/quality_operating_framework.md)
-- [`release_gate_checklist.md`](../governance/release_gate_checklist.md)
-- [`experiment_design.md`](templates/operations/experiment_design.md)
-- [`regression_test_tracker.md`](templates/validation/regression_test_tracker.md)
-- [`weekly_quality_log.md`](templates/logs/weekly_quality_log.md)
+- [`09_quality_operating_framework.md`](../governance/09_quality_operating_framework.md)
+- [`13_release_gate_checklist.md`](../governance/13_release_gate_checklist.md)
+- [`16_experiment_design.md`](templates/operations/16_experiment_design.md)
+- [`25_regression_test_tracker.md`](templates/validation/25_regression_test_tracker.md)
+- [`29_weekly_quality_log.md`](templates/logs/29_weekly_quality_log.md)

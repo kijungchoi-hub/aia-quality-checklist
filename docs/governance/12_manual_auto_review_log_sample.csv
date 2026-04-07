@@ -1,0 +1,5 @@
+sample_id,question_type,auto_accuracy,auto_retrieval_match,auto_grounding_match,manual_accuracy,manual_fluency,manual_grounding,overall_judgment,key_comment,follow_up_action
+RV-2026-010,단일턴 약관 질문,0.78,0.94,0.72,중간,중간,중간,부분정답,예외 조건이 누락돼 부분정답으로 판정,생성 프롬프트 보완
+RV-2026-011,축약형 질의,0.42,0.55,0.33,낮음,중간,낮음,오답,질의 해석 실패로 엉뚱한 상품 문서를 참조,QUERY 코드 점검
+RV-2026-012,출처 요구 질문,0.66,0.89,0.24,중간,중간,낮음,부분정답,답변은 유사하지만 출처 표기가 불완전,출처 포맷 추가
+RV-2026-013,멀티턴 후속 질문,0.51,0.73,0.40,낮음,중간,낮음,보류,이전 대화 맥락을 안정적으로 반영하지 못함,멀티턴 검증셋 보강
