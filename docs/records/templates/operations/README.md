@@ -13,18 +13,18 @@
 
 | 파일 | 구분 | 설명 |
 |---|---|---|
-| `experiment_design.md` | Template | 실험 설계 문서 |
-| `experiment_design.csv` | Input | 실험 설계 입력 시트 |
-| `experiment_design_sample.md` | Sample | 실험 설계 작성 예시 |
-| `experiment_design_sample.csv` | Sample | 실험 설계 입력 예시 |
-| `search_failure_codebook.md` | Template | 검색 실패 코드북 |
-| `search_failure_codebook.csv` | Input | 검색 실패 기록 시트 |
-| `search_failure_codebook_sample.md` | Sample | 검색 실패 코드북 예시 |
-| `search_failure_codebook_sample.csv` | Sample | 검색 실패 기록 예시 |
-| `generation_failure_casebook.md` | Template | 생성 실패 케이스북 |
-| `generation_failure_casebook.csv` | Input | 생성 실패 기록 시트 |
-| `generation_failure_casebook_sample.md` | Sample | 생성 실패 케이스북 예시 |
-| `generation_failure_casebook_sample.csv` | Sample | 생성 실패 기록 예시 |
+| [`experiment_design.md`](experiment_design.md) | Template | 실험 설계 문서 |
+| [`experiment_design.csv`](experiment_design.csv) | Input | 실험 설계 입력 시트 |
+| [`experiment_design_sample.md`](experiment_design_sample.md) | Sample | 실험 설계 작성 예시 |
+| [`experiment_design_sample.csv`](experiment_design_sample.csv) | Sample | 실험 설계 입력 예시 |
+| [`search_failure_codebook.md`](search_failure_codebook.md) | Template | 검색 실패 코드북 |
+| [`search_failure_codebook.csv`](search_failure_codebook.csv) | Input | 검색 실패 기록 시트 |
+| [`search_failure_codebook_sample.md`](search_failure_codebook_sample.md) | Sample | 검색 실패 코드북 예시 |
+| [`search_failure_codebook_sample.csv`](search_failure_codebook_sample.csv) | Sample | 검색 실패 기록 예시 |
+| [`generation_failure_casebook.md`](generation_failure_casebook.md) | Template | 생성 실패 케이스북 |
+| [`generation_failure_casebook.csv`](generation_failure_casebook.csv) | Input | 생성 실패 기록 시트 |
+| [`generation_failure_casebook_sample.md`](generation_failure_casebook_sample.md) | Sample | 생성 실패 케이스북 예시 |
+| [`generation_failure_casebook_sample.csv`](generation_failure_casebook_sample.csv) | Sample | 생성 실패 기록 예시 |
 
 ---
 

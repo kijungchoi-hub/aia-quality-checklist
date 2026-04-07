@@ -1,6 +1,6 @@
 ﻿# AI RAG 서비스 체크리스트
 
-참조 문서: `docs/checklists/answer_checklist.md`
+참조 문서: [`answer_checklist.md`](answer_checklist.md)
 
 정리 기준:
 - 특정 도메인, 문서 유형, 데이터셋 이름은 제거합니다.

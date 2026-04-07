@@ -9,7 +9,7 @@
 - 작성일 (Date): 2026-04-02
 - 작성자 (Owner): 검색 품질 담당
 - 대상 서비스/기능 (Scope): 약관/정책 질의 응답
-- 관련 문서 (References): `quality_checklist_overview.md`
+- 관련 문서 (References): [`quality_checklist_overview.md`](../../quality_checklist_overview.md)
 
 ---
 

@@ -1,6 +1,6 @@
 ﻿# AI RAG 서비스 프로젝트 관리표
 
-기준 문서: `docs/checklists/ai_rag_service_checklist.md`
+기준 문서: [`ai_rag_service_checklist.md`](../checklists/ai_rag_service_checklist.md)
 
 | 구분 | 세부 항목 | 우선순위 | 상태 | 담당자 | 마감일 | 진행률 | 비고 |
 |---|---|---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 ﻿# 답변 품질 체크리스트
 
-기준 데이터: `data/quality_checklist_raw_answer.csv`
+기준 데이터: [`quality_checklist_raw_answer.csv`](../../data/quality_checklist_raw_answer.csv)
 
 정리 기준:
 - 문서 유형별 구분은 제거합니다.

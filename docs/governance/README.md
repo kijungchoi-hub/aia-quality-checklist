@@ -6,13 +6,13 @@
 
 | 파일명 | 용도 |
 |---|---|
-| `quality_operating_framework.md` | 전체 개선활동 프레임워크 |
-| `search_failure_codebook.md` | 검색 실패 분류 기준 및 초안 사례 |
-| `generation_failure_casebook.md` | 생성 실패 사례 초안 |
-| `manual_auto_review_log.md` | 수동/자동 평가 통합 로그 초안 |
-| `release_gate_checklist.md` | 개선 반영 전 점검표 |
-| `weekly_quality_log_2026-W14.md` | 현재 프로젝트 기준 주간 점검 기록 초안 |
-| `expansion_validation_matrix.md` | 타 영역 확장 검증 초안 |
+| [`quality_operating_framework.md`](quality_operating_framework.md) | 전체 개선활동 프레임워크 |
+| [`search_failure_codebook.md`](search_failure_codebook.md) | 검색 실패 분류 기준 및 초안 사례 |
+| [`generation_failure_casebook.md`](generation_failure_casebook.md) | 생성 실패 사례 초안 |
+| [`manual_auto_review_log.md`](manual_auto_review_log.md) | 수동/자동 평가 통합 로그 초안 |
+| [`release_gate_checklist.md`](release_gate_checklist.md) | 개선 반영 전 점검표 |
+| [`weekly_quality_log_2026-W14.md`](weekly_quality_log_2026-W14.md) | 현재 프로젝트 기준 주간 점검 기록 초안 |
+| [`expansion_validation_matrix.md`](expansion_validation_matrix.md) | 타 영역 확장 검증 초안 |
 
 ## 개선활동 원칙
 

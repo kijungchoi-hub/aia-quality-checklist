@@ -1,6 +1,6 @@
 ﻿# 요약 품질 체크리스트 표
 
-기준 데이터: `data/quality_checklist_raw_summary.csv`
+기준 데이터: [`quality_checklist_raw_summary.csv`](../../data/quality_checklist_raw_summary.csv)
 
 | 구분 | 세부 항목 | 우선순위 | 상태 | 비고 |
 |---|---|---|---|---|

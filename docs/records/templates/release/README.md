@@ -13,10 +13,10 @@
 
 | 파일 | 구분 | 설명 |
 |---|---|---|
-| `release_gate_checklist.md` | Template | 배포 게이트 문서 |
-| `release_gate_checklist.csv` | Input | 배포 점검 입력 시트 |
-| `release_gate_checklist_sample.md` | Sample | 배포 게이트 작성 예시 |
-| `release_gate_checklist_sample.csv` | Sample | 배포 점검 입력 예시 |
+| [`release_gate_checklist.md`](release_gate_checklist.md) | Template | 배포 게이트 문서 |
+| [`release_gate_checklist.csv`](release_gate_checklist.csv) | Input | 배포 점검 입력 시트 |
+| [`release_gate_checklist_sample.md`](release_gate_checklist_sample.md) | Sample | 배포 게이트 작성 예시 |
+| [`release_gate_checklist_sample.csv`](release_gate_checklist_sample.csv) | Sample | 배포 점검 입력 예시 |
 
 ---
 

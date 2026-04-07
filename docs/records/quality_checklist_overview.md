@@ -1,9 +1,9 @@
 ﻿# 답변 품질 개선활동 개요
 
 기준 문서:
-- `docs/checklists/answer_checklist.md`
-- `docs/checklists/answer_checklist_table.csv`
-- `docs/projects/ai_rag_service_project_tracker.md`
+- [`answer_checklist.md`](../checklists/answer_checklist.md)
+- [`answer_checklist_table.csv`](../checklists/answer_checklist_table.csv)
+- [`ai_rag_service_project_tracker.md`](../projects/ai_rag_service_project_tracker.md)
 
 | 항목 | 내용 |
 |---|---|
@@ -56,8 +56,8 @@
 
 ## 7. 권장 연결 문서
 
-- `docs/governance/quality_operating_framework.md`
-- `docs/governance/release_gate_checklist.md`
-- `docs/records/templates/operations/experiment_design.md`
-- `docs/records/templates/validation/regression_test_tracker.md`
-- `docs/records/templates/logs/weekly_quality_log.md`
+- [`quality_operating_framework.md`](../governance/quality_operating_framework.md)
+- [`release_gate_checklist.md`](../governance/release_gate_checklist.md)
+- [`experiment_design.md`](templates/operations/experiment_design.md)
+- [`regression_test_tracker.md`](templates/validation/regression_test_tracker.md)
+- [`weekly_quality_log.md`](templates/logs/weekly_quality_log.md)

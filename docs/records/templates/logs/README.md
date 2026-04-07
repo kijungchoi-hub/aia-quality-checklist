@@ -8,10 +8,10 @@
 
 | 파일 | 구분 | 설명 |
 |---|---|---|
-| `weekly_quality_log.md` | Template | 주간 점검 기록 문서 |
-| `weekly_quality_log.csv` | Input | 주간 점검 입력 시트 |
-| `weekly_quality_log_sample.md` | Sample | 주간 점검 기록 예시 |
-| `weekly_quality_log_sample.csv` | Sample | 주간 점검 입력 예시 |
+| [`weekly_quality_log.md`](weekly_quality_log.md) | Template | 주간 점검 기록 문서 |
+| [`weekly_quality_log.csv`](weekly_quality_log.csv) | Input | 주간 점검 입력 시트 |
+| [`weekly_quality_log_sample.md`](weekly_quality_log_sample.md) | Sample | 주간 점검 기록 예시 |
+| [`weekly_quality_log_sample.csv`](weekly_quality_log_sample.csv) | Sample | 주간 점검 입력 예시 |
 
 ## 사용 시점
 
@@ -24,4 +24,3 @@
 - `*.md`는 설명형 템플릿입니다.
 - `*.csv`는 입력형 템플릿입니다.
 - `*_sample.md`, `*_sample.csv`는 작성 예시입니다.
-

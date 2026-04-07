@@ -1,6 +1,6 @@
 ﻿# 요약 품질 체크리스트
 
-기준 데이터: `data/quality_checklist_raw_summary.csv`
+기준 데이터: [`quality_checklist_raw_summary.csv`](../../data/quality_checklist_raw_summary.csv)
 
 정리 기준:
 - 요약 유형별 구분은 최소화합니다.
