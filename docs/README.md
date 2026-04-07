@@ -8,6 +8,13 @@
 - [`records`](records/): 개선활동 개요 문서와 개선활동 기록 문서를 관리합니다.
 - [`templates`](records/templates/): 실험, 검증, 배포 점검, 주간 기록 템플릿을 보관합니다.
 
+## 데이터와 문서 구분
+
+- 평가셋, 검증셋, 회귀 테스트셋 같은 실제 데이터 파일은 [`../data`](../data/) 아래에 둡니다.
+- 특히 평가용 원본 데이터는 `../data/evaluation/`, 회귀 테스트 원본 데이터는 `../data/regression/`을 우선 사용합니다.
+- 실행 계획서, 프로젝트 적용 범위, 우선순위 문서는 [`projects`](projects/)에 둡니다.
+- 검증 결과 요약, 회귀 판정 기록, 주간 품질 로그는 [`records`](records/)에 둡니다.
+
 ## 권장 사용 순서
 
 1. [`checklists`](checklists/)에서 적용 기준 문서를 고릅니다.
@@ -22,4 +29,5 @@
 - 실행 중 문서는 [`projects`](projects/)에 둡니다.
 - 정책과 게이트 기준은 [`governance`](governance/)에 둡니다.
 - 개선활동 개요와 주간 기록은 [`records`](records/)에 둡니다.
+- 평가셋과 회귀셋 자체는 문서 폴더로 옮기지 않고 [`../data`](../data/) 아래에서 관리합니다.
 - 이전 버전과 중간 산출물은 최상위 [`archive`](../archive/)로 이동해 보관합니다.
